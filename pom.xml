@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>Dev-GCP</finalName>
+    <finalName>Release_0.11</finalName>
   </build>
 </project>
